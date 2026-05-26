@@ -1061,16 +1061,7 @@ const App: React.FC = () => {
         <div className="max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="flex flex-col gap-2 items-center md:items-start">
              <div className="font-heading text-xl font-bold tracking-tighter text-white">MITUL NAYAKWADI</div>
-             <a 
-               href="https://github.com/MitulNayakwadi/My_Portfolio"
-               target="_blank"
-               rel="noopener noreferrer"
-               className="text-xs text-gray-400 hover:text-red-500 transition-all flex items-center gap-1.5 bg-white/5 px-2.5 py-1 rounded-full border border-white/5 hover:border-red-500/20"
-               data-hover="true"
-             >
-               <Github className="w-3.5 h-3.5" />
-               <span>View Portfolio Source Code</span>
-             </a>
+
           </div>
           
           <div className="text-xs text-gray-500 text-center md:text-right">
